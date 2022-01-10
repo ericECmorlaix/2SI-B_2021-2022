@@ -83,10 +83,10 @@ BBC micro:bit
 - Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ;
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
-
+-->
 
 ***
-## Les 05 et 12/10 :
+## Le 11/01 :
 
 ### Activités :
 
@@ -100,11 +100,11 @@ BBC micro:bit
 
 ​> **notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre ;
 
-### Prolongements, à faire pour le 19/10 :
+### Prolongements, à faire pour le 18/01 :
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
-- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... -->
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1)​​... 
 
 ***
 
@@ -114,7 +114,7 @@ BBC micro:bit
 
 #### Présentation de l'environnement de travail :
 
-- Groupe [# TEAM-2SI_B-2021/2022](https://teams.microsoft.com/l/team/19%3azMKqqNfiERoNCupJ8xo1QWKANyQKDDUFCGSQ_aiQH681%40thread.tacv2/conversations?groupId=489a1b2a-5310-4b46-8989-69f6c960c224&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target="_blank"} , email [team-2si_b-20212022@ecmorlaix.fr](mailto:team-2si_b-20212022@ecmorlaix.fr), sharepoint [TEAM-2SI_B-20212022](https://ecmorlaix.sharepoint.com/sites/TEAM-2SI_A-20212022/Documents%20partages/Forms/AllItems.aspx?CT=1632756163350&RootFolder=%2Fsites%2FTEAM%2D2SI%5FA%2D20212022%2FDocuments%20partages%2FGeneral&FolderCTID=0x012000528EFFD8A83CDD46AE53974FAE1335EA){target="_blank"} ;
+- Groupe [# TEAM-2SI_B-2021/2022](https://teams.microsoft.com/l/team/19%3aUOFbo1Igl9eKscEuHaC7jYwCIwbG2LwVr2P-R9g0i_01%40thread.tacv2/conversations?groupId=172ab8dd-9ee8-444b-982a-367423d99f13&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target="_blank"} , email [team-2si_b-20212022@ecmorlaix.fr](mailto:team-2si_b-20212022@ecmorlaix.fr), sharepoint [TEAM-2SI_B-20212022](https://teams.microsoft.com/l/team/19%3aUOFbo1Igl9eKscEuHaC7jYwCIwbG2LwVr2P-R9g0i_01%40thread.tacv2/conversations?groupId=172ab8dd-9ee8-444b-982a-367423d99f13&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target="_blank"} ;
 - Dépot [GitHub](https://github.com/ericECmorlaix/2SI-B_2021-2022){target="_blank"} ; 
 
 #### Prise en main des [notebook jupyter](./decouverte-notebook) pour communiquer un compte rendu :
