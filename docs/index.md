@@ -66,10 +66,10 @@ BBC micro:bit
 
 - Finir la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
-
+-->
 ***
 
-## Le 19/10 :
+## Le 18/01 :
 
 ### Activités :
 
@@ -78,12 +78,12 @@ BBC micro:bit
 - Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
 
 
-### Prolongements, à faire durant les vacances de la Toussaint :
+### Prolongements :
 
 - Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ;
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
--->
+
 
 ***
 ## Le 11/01 :
