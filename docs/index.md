@@ -40,16 +40,6 @@ BBC micro:bit
     3. **Se déplacer** => construire et programmer une base motrice afin d'expliquer le déplacement produit par les différentes instructions... ;
     4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
 
-***
-## Le 16/11 :
-
-### Activités :
-
-- Découverte de la [modélisation 3D](modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
-
-### Prolongements pour le 23/11 :
-
-- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
 
 ***
 ## Le 09/11 :
@@ -67,6 +57,22 @@ BBC micro:bit
 - Finir la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
 -->
+
+***
+## Le 25/01 :
+
+### Activités :
+
+- Découverte de la [modélisation 3D](modelisation_3D) avec BlocksCAD et/ou TinkerCAD-CodeBlocks (code de la classe C8K89DHD4Y7K) ;
+
+### Prolongements pour le 01/02 :
+
+- Poursuivre plus avant l'activité de [modélisation 3D](modelisation_3D)...
+
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
+
+- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
+
 ***
 
 ## Le 18/01 :
@@ -80,7 +86,7 @@ BBC micro:bit
 
 ### Prolongements :
 
-- Finir tous les niveaux de [PYRATES](https://py-rates.fr/) ;
+- Finir tous les niveaux de [PYRATES](https://py-rates.fr/){target="_blank"} ;
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
