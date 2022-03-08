@@ -27,13 +27,15 @@ BBC micro:bit
 
 
 ***
-## Le 07/12 :
 
-- **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/2CIT_2021-2022/bbc_microbit/){target=_blank} 
 -->
 
+## Les 08 et 15/03 :
+
+- **Programmer** une carte [BBC micro:bit](./bbc_microbit){target=_blank}
+
 ***
-## Le 22/02 :
+## Les 22/02 et 01/03 :
 
 - **​Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
     1. **Hello !** => expérimenter afin d'expliquer comment fonctionne la communication avec la brique depuis une tablette et depuis un PC...  ;​​​​​
