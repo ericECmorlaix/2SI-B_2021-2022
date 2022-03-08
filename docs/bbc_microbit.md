@@ -81,14 +81,14 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 <iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://app.edublocks.org/"></iframe>
 </figure>
 
-- Ensuite, pour tester un programme par simulation, on peut copier/coller le code en Python dans le simulateur de [https://create.withcode.uk/](https://create.withcode.uk/){target=_blank} et puis on clique sur le bouton "Run" ou la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
+- Ensuite, pour tester un programme par simulation, on peut copier/coller le code en Python dans le simulateur de [https://create.withcode.uk/](https://create.withcode.uk/){target=_blank} et puis on clique sur le bouton `Run` ou la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
 
 - Enfin, pour valider un programme sur le matériel réel :
-  - on raccorde une carte BBC micro:bit avec un cable sur un port USB de l'ordinateur. Le PC doit reconnaitre la carte comme un nouveau lecteur nommé : `MICROBIT (E:)` ;
-  - on ouvre l'éditeur micropython officiel [https://python.microbit.org/]([https://python.microbit.org/){target=_blank} ;
-  - on cliquer sur le bouton `Connect`, et on sélectionne la carte `"BBC micro:bit CMSIS-DAP"` à associer, puis on clique sur le bouton `Connexion` pour établir la communication ;
-  - Une fois connecté, on clique sur le bouton `Flash` pour charger le programme qui s'exécutera dès que la LED jaune située à l'arrière de la carte aura fini de clignoter ;
-  - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
+    - on raccorde une carte BBC micro:bit avec un cable sur un port USB de l'ordinateur. Le PC doit reconnaitre la carte comme un nouveau lecteur nommé : `MICROBIT (E:)` ;
+    - on ouvre l'éditeur micropython officiel [https://python.microbit.org/]([https://python.microbit.org/){target=_blank} ;
+    - on cliquer sur le bouton `Connect`, et on sélectionne la carte `"BBC micro:bit CMSIS-DAP"` à associer, puis on clique sur le bouton `Connexion` pour établir la communication ;
+    - Une fois connecté, on clique sur le bouton `Flash` pour charger le programme qui s'exécutera dès que la LED jaune située à l'arrière de la carte aura fini de clignoter ;
+    - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
 
 
 
@@ -104,7 +104,7 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 
 ### Smiley
 
-S'inscrire sur [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank} et faire afficher un Smiley sur la matrice des 25 Leds...
+S'inscrire sur [edublocks](https://app.edublocks.org/){target=_blank} et faire afficher un Smiley sur la matrice des 25 Leds...
 
 ![](./images/bbc-Smiley.gif){ .center}
 
@@ -121,7 +121,7 @@ Modifier le programme pour qu'après la phase de démarrage du BBC micro:bit la 
 
 Créer un badge interactif qui affiche un visage heureux si on appuie sur le bouton A, et un visage triste si on appuie sur le bouton B, ou un visage neutre sinon.
 
-![](https://projects-static.raspberrypi.org/projects/interactive-badge/7275aa373000409b1baa6785c4123657a505fa35/fr-FR/images/badge-final.gif)
+![](https://projects-static.raspberrypi.org/projects/interactive-badge/7275aa373000409b1baa6785c4123657a505fa35/fr-FR/images/badge-final.gif){ .center}
 
 
 ### Feux d'artifice
